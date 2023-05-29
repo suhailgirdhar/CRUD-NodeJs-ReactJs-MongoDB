@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+th,
+td {
+  width: 200px;
+  padding: 10px 0;
+}
+
+tr {
+  margin: 50px auto;
+}
+
+th span {
+  padding: 0 10px;
+}
